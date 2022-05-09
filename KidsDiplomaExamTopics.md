@@ -2,6 +2,7 @@
 
 |Topic|Buzzwords, Hints...|
 |-|-|
+|Vocabulary|Of course you should be able to understand and explain common terms and their underlying concepts, e.g. Under-/Overfitting, Generalization...
 |Preprocessing|How can you deal with missing values? Which types of categorical variables do you know, and how can they be encoded for using them in _ML_? Describe approaches for scaling data and situations that require us to do so.|
 |_kNN_|Describe the inner workings of the _kNN_-algorithm both for classification and regression problems. What hyperparameters can be adjusted and how can they lead to under-/overfitting? Why is scaling crucial for this algorithm? Briefly describe the idea of using a similar approach for generating data (_SMOTE_).|
 |Performance Metrics|Describe the common metrics for evaluating the performance of classification models (i.e. accuracy, precision, recall, f1). Interpret a confusion matrix for binary classification. When can depending on accuracy pose a problem? Give examples on situations where precision and recall would be suitable metrics. Describe common metrics for evaluating regression models (i.e. MAE, MSE).|
