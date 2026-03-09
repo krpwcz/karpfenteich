@@ -118,7 +118,7 @@ Beispiel:
 
 # Individuelle Themenstellungen der Kandidatin/des Kandidaten
 
-Hier müssen die ProjektmitarbeiterInnen eingetragen werden. Bei _Individuelle Themenstellung_ kann man ganz pragmatisch _Siehe "Untersuchungsanliegen der individuellen Themenstellungen"._ hinschreiben. Bei _Arbeitsaufwand_ ist 180 Stunden ein guter Richtwert.
+Hier müssen für alle ProjektmitarbeiterInnen deren Fokus eingetragen werden - hierfür reicht eine kurze, aber sehr konkrete, Beschreibung. Bei _Arbeitsaufwand_ ist 180 Stunden ein guter Richtwert.
 
 # Mögliche Kooperationspartner/innen bzw. Auftraggeber/innen
 
